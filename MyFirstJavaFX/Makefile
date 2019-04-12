@@ -18,4 +18,4 @@ test:
 
 clean:
 	\rm *.class
-	\rm executable.jar
+	\rm executable.jar 
